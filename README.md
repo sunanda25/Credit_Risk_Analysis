@@ -58,3 +58,4 @@ LendingClub, a peer-to-peer lending services company wants to use machine learni
 
 ### EasyEnsembleClassifier Model
 ![image](https://user-images.githubusercontent.com/76491891/122673986-34c1fb80-d1a1-11eb-8527-373bb61c7fb9.png)
+![image](https://user-images.githubusercontent.com/76491891/122674004-4c997f80-d1a1-11eb-9604-4287abf0da09.png)
