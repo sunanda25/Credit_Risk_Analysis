@@ -46,3 +46,6 @@ LendingClub, a peer-to-peer lending services company wants to use machine learni
 - The balanced accuracy score of the SMOTEENN model is 63%.
 - The high-risk precision is 1% and the recall score is 70% which makes an F1 score of 2%.
 - The low-risk precision is 100% and the recall score is 57% which makes an F1 score of 72%.
+
+### BalancedRandomForestClassifier Model
+![image](https://user-images.githubusercontent.com/76491891/122673944-f7f60480-d1a0-11eb-8686-8b7a5fdad1b8.png)
