@@ -49,3 +49,4 @@ LendingClub, a peer-to-peer lending services company wants to use machine learni
 
 ### BalancedRandomForestClassifier Model
 ![image](https://user-images.githubusercontent.com/76491891/122673944-f7f60480-d1a0-11eb-8686-8b7a5fdad1b8.png)
+![image](https://user-images.githubusercontent.com/76491891/122673959-080de400-d1a1-11eb-84fa-22fb78e47a44.png)
