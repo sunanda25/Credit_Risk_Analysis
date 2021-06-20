@@ -37,3 +37,6 @@ LendingClub, a peer-to-peer lending services company wants to use machine learni
 - The balanced accuracy score of the ClusterCentroids model is 54%.
 - The high-risk precision is 1% and the recall score is 68% which makes an F1 score of 1%.
 - The low-risk precision is 100% and the recall score is 41% which makes an F1 score of 58%.
+
+### SMOTEENN Model
+![image](https://user-images.githubusercontent.com/76491891/122673875-a0f02f80-d1a0-11eb-812f-6f1e9cec6af5.png)
