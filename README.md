@@ -50,3 +50,11 @@ LendingClub, a peer-to-peer lending services company wants to use machine learni
 ### BalancedRandomForestClassifier Model
 ![image](https://user-images.githubusercontent.com/76491891/122673944-f7f60480-d1a0-11eb-8686-8b7a5fdad1b8.png)
 ![image](https://user-images.githubusercontent.com/76491891/122673959-080de400-d1a1-11eb-84fa-22fb78e47a44.png)
+![image](https://user-images.githubusercontent.com/76491891/122673966-178d2d00-d1a1-11eb-9cb3-34d6c3b04bf4.png)
+
+- The balanced accuracy score of the BalancedRandomForestClassifier model is 79%.
+- The high-risk precision is 3% and the recall score is 70% which makes an F1 score of 6%.
+- The low-risk precision is 100% and the recall score is 87% which makes an F1 score of 93%.
+
+### EasyEnsembleClassifier Model
+![image](https://user-images.githubusercontent.com/76491891/122673986-34c1fb80-d1a1-11eb-8527-373bb61c7fb9.png)
