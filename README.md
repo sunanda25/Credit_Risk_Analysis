@@ -31,3 +31,4 @@ LendingClub, a peer-to-peer lending services company wants to use machine learni
 
 ### ClusterCentroids Model
 ![image](https://user-images.githubusercontent.com/76491891/122673840-54a4ef80-d1a0-11eb-81fd-2d0a1fff57a5.png)
+![image](https://user-images.githubusercontent.com/76491891/122673848-68e8ec80-d1a0-11eb-959a-d55440650bd2.png)
