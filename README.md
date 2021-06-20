@@ -28,3 +28,6 @@ LendingClub, a peer-to-peer lending services company wants to use machine learni
 - The balanced accuracy score of SMOTE model is 66%.
 - The high-risk precision is 1% and the recall score is 63% which makes an F1 score of 2%.
 - The low-risk precision is 100% and the recall score is 69% which makes an F1 score of 81%.
+
+### ClusterCentroids Model
+![image](https://user-images.githubusercontent.com/76491891/122673840-54a4ef80-d1a0-11eb-81fd-2d0a1fff57a5.png)
