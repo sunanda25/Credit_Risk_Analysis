@@ -40,3 +40,4 @@ LendingClub, a peer-to-peer lending services company wants to use machine learni
 
 ### SMOTEENN Model
 ![image](https://user-images.githubusercontent.com/76491891/122673875-a0f02f80-d1a0-11eb-812f-6f1e9cec6af5.png)
+![image](https://user-images.githubusercontent.com/76491891/122673889-b2393c00-d1a0-11eb-8f7a-a424027bf79e.png)
