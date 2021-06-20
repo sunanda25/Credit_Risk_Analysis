@@ -59,3 +59,8 @@ LendingClub, a peer-to-peer lending services company wants to use machine learni
 ### EasyEnsembleClassifier Model
 ![image](https://user-images.githubusercontent.com/76491891/122673986-34c1fb80-d1a1-11eb-8527-373bb61c7fb9.png)
 ![image](https://user-images.githubusercontent.com/76491891/122674004-4c997f80-d1a1-11eb-9604-4287abf0da09.png)
+![image](https://user-images.githubusercontent.com/76491891/122674019-5e7b2280-d1a1-11eb-9b3c-f6fcb0abb363.png)
+
+- The balanced accuracy score of the EasyEsembleClassifier model is 93%.
+- The high-risk precision is 9% and the recall score is 92% which makes an F1 score of 16%.
+- The low-risk precision is 100% and the recall score is 94% which makes an F1 score of 97%.
