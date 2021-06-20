@@ -19,3 +19,12 @@ LendingClub, a peer-to-peer lending services company wants to use machine learni
 - The balanced accuracy score of the RandomOverSampler model is 68%.
 - The high-risk precision is 1% and the recall score is 75% which makes an F1 score of 2%.
 - The low-risk precision is 100% and the recall score is 61% which makes an F1 score of 75%.
+
+### SMOTE Model
+![image](https://user-images.githubusercontent.com/76491891/122673774-07288280-d1a0-11eb-95f6-27ac3456337e.png)
+![image](https://user-images.githubusercontent.com/76491891/122673782-127bae00-d1a0-11eb-8357-7e516d01d50e.png)
+![image](https://user-images.githubusercontent.com/76491891/122673790-1e677000-d1a0-11eb-9b8f-3e3768c3cdb2.png)
+
+- The balanced accuracy score of SMOTE model is 66%.
+- The high-risk precision is 1% and the recall score is 63% which makes an F1 score of 2%.
+- The low-risk precision is 100% and the recall score is 69% which makes an F1 score of 81%.
