@@ -64,3 +64,6 @@ LendingClub, a peer-to-peer lending services company wants to use machine learni
 - The balanced accuracy score of the EasyEsembleClassifier model is 93%.
 - The high-risk precision is 9% and the recall score is 92% which makes an F1 score of 16%.
 - The low-risk precision is 100% and the recall score is 94% which makes an F1 score of 97%.
+
+## Summary
+The Oversampled, Undersampled, combination of both, Ensemble models have been used to determine which model is best in predicting credit risk. The accuracy scores for both Ensemble classifier models (79%, 93%) are high compared to the remaining models (68%, 66%, 54%, 63%). The EasyEnsembleClassifier model has a high accuracy score of 93% and a recall of 92% which detects almost all high-risk credit. Based on the accuracy, precision, and recall scores, the Ensemble classifiers models are recommended over the remaining models to predict credit risk.
